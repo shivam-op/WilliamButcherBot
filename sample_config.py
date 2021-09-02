@@ -2,7 +2,8 @@ from dotenv import load_dotenv
 
 load_dotenv("config.env")
 
-HEROKU = false  # NOTE Make it false if you're not deploying on heroku or docker.
+HEROKU = False
+  # NOTE Make it false if you're not deploying on heroku or docker.
 
 if HEROKU:
     from os import environ
