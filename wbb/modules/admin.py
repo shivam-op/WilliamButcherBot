@@ -50,7 +50,7 @@ __HELP__ = """/ban - Ban A User
 /purge - Purge Messages
 /del - Delete Replied Message
 /promote - Promote A Member
-/demote - Demote A Member
+/demote - Demote A Members
 /pin - Pin A Message
 /mute - Mute A User
 /tmute - Mute A User For Specific Time
